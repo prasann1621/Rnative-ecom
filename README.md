@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/ecommerce-app.git
+git clone git@github.com:prasann1621/Rnative-ecom.git
 Navigate to the project directory:
 
 bash
